@@ -38,7 +38,7 @@ body {
     color: #fff;
 }
 .head{
-    background: url(/imges/head.jpg);
+    background: url(imges/head.jpg);
     background-size: 100% 100%;
     display: flex;
     align-items: center;
